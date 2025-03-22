@@ -1,1 +1,1 @@
-# Terraform-AWS-Dev-Environment ![BluePrint](https://github.com/user-attachments/assets/c9db288b-8b81-47d6-a405-9f943204fc04)
+# Terraform-AWS-Dev-Environment ![Terraform](https://github.com/user-attachments/assets/2ad85b62-34a2-4ea6-942e-86e7ad685be7)
